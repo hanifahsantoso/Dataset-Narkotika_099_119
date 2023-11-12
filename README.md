@@ -32,3 +32,6 @@ pip install nama_pustaka
   Ringkasan hasil dari putusan yang terdiri dari nomor putusan, lembaga pengadilan, barang bukti, dan catatan amar.
 
 ## DOCUMENTATION
+![Screenshot (64)](https://github.com/hanifahsantoso/Dataset-Narkotika_099_119/assets/80865973/a4441bff-7696-40a7-a5b0-79451690f3cc)
+
+![Screenshot (65)](https://github.com/hanifahsantoso/Dataset-Narkotika_099_119/assets/80865973/a4441bff-7696-40a7-a5b0-79451690f3cc)
