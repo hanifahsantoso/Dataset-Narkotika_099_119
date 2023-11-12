@@ -34,4 +34,4 @@ pip install nama_pustaka
 ## DOCUMENTATION
 ![Screenshot (64)](https://github.com/hanifahsantoso/Dataset-Narkotika_099_119/assets/80865973/a4441bff-7696-40a7-a5b0-79451690f3cc)
 
-![Screenshot (65)](https://github.com/hanifahsantoso/Dataset-Narkotika_099_119/assets/80865973/a4441bff-7696-40a7-a5b0-79451690f3cc)
+![Screenshot (65)](https://github.com/hanifahsantoso/Dataset-Narkotika_099_119/assets/80865973/1266eb16-04d5-4494-b452-4c90f5dd1858)
